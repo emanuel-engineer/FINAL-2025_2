@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/sprites">
+        <file>avion.png</file>
+        <file>misil.png</file>
+        <file>backgroundfinal.png</file>
+    </qresource>
+</RCC>

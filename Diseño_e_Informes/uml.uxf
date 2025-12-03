@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>505</x>
-      <y>5</y>
+      <x>440</x>
+      <y>60</y>
       <w>105</w>
       <h>75</h>
     </coordinates>
@@ -24,8 +24,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>655</x>
-      <y>5</y>
+      <x>590</x>
+      <y>60</y>
       <w>105</w>
       <h>65</h>
     </coordinates>
@@ -43,8 +43,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>505</x>
-      <y>115</y>
+      <x>440</x>
+      <y>170</y>
       <w>105</w>
       <h>75</h>
     </coordinates>
@@ -63,8 +63,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>355</x>
-      <y>235</y>
+      <x>290</x>
+      <y>290</y>
       <w>120</w>
       <h>65</h>
     </coordinates>
@@ -82,8 +82,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>505</x>
-      <y>235</y>
+      <x>440</x>
+      <y>290</y>
       <w>120</w>
       <h>65</h>
     </coordinates>
@@ -100,8 +100,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>655</x>
-      <y>235</y>
+      <x>590</x>
+      <y>290</y>
       <w>120</w>
       <h>65</h>
     </coordinates>
@@ -119,8 +119,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>355</x>
-      <y>345</y>
+      <x>290</x>
+      <y>400</y>
       <w>105</w>
       <h>60</h>
     </coordinates>
@@ -137,8 +137,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>310</x>
-      <y>435</y>
+      <x>245</x>
+      <y>490</y>
       <w>75</w>
       <h>40</h>
     </coordinates>
@@ -152,8 +152,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>405</x>
-      <y>435</y>
+      <x>340</x>
+      <y>490</y>
       <w>75</w>
       <h>40</h>
     </coordinates>
@@ -167,8 +167,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>505</x>
-      <y>345</y>
+      <x>440</x>
+      <y>400</y>
       <w>105</w>
       <h>75</h>
     </coordinates>
@@ -187,8 +187,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>655</x>
-      <y>345</y>
+      <x>590</x>
+      <y>400</y>
       <w>105</w>
       <h>60</h>
     </coordinates>
@@ -204,8 +204,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>560</x>
-      <y>445</y>
+      <x>495</x>
+      <y>500</y>
       <w>110</w>
       <h>45</h>
     </coordinates>
@@ -220,8 +220,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>690</x>
-      <y>445</y>
+      <x>625</x>
+      <y>500</y>
       <w>80</w>
       <h>45</h>
     </coordinates>
@@ -236,8 +236,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>785</x>
-      <y>445</y>
+      <x>720</x>
+      <y>500</y>
       <w>85</w>
       <h>50</h>
     </coordinates>
@@ -253,8 +253,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>805</x>
-      <y>345</y>
+      <x>740</x>
+      <y>400</y>
       <w>105</w>
       <h>55</h>
     </coordinates>
@@ -270,8 +270,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>655</x>
-      <y>115</y>
+      <x>590</x>
+      <y>170</y>
       <w>105</w>
       <h>70</h>
     </coordinates>
@@ -289,8 +289,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>605</x>
-      <y>25</y>
+      <x>540</x>
+      <y>80</y>
       <w>60</w>
       <h>20</h>
     </coordinates>
@@ -301,8 +301,8 @@ tiene</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>555</x>
-      <y>75</y>
+      <x>490</x>
+      <y>130</y>
       <w>45</w>
       <h>50</h>
     </coordinates>
@@ -313,8 +313,8 @@ controla</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>410</x>
-      <y>185</y>
+      <x>345</x>
+      <y>240</y>
       <w>105</w>
       <h>60</h>
     </coordinates>
@@ -324,8 +324,8 @@ controla</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>555</x>
-      <y>185</y>
+      <x>490</x>
+      <y>240</y>
       <w>15</w>
       <h>60</h>
     </coordinates>
@@ -335,8 +335,8 @@ controla</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>605</x>
-      <y>185</y>
+      <x>540</x>
+      <y>240</y>
       <w>110</w>
       <h>60</h>
     </coordinates>
@@ -346,8 +346,8 @@ controla</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>605</x>
-      <y>135</y>
+      <x>540</x>
+      <y>190</y>
       <w>60</w>
       <h>20</h>
     </coordinates>
@@ -358,8 +358,8 @@ usa</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>405</x>
-      <y>295</y>
+      <x>340</x>
+      <y>350</y>
       <w>40</w>
       <h>60</h>
     </coordinates>
@@ -370,8 +370,8 @@ genera</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>450</x>
-      <y>295</y>
+      <x>385</x>
+      <y>350</y>
       <w>105</w>
       <h>60</h>
     </coordinates>
@@ -382,8 +382,8 @@ controla</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>345</x>
-      <y>400</y>
+      <x>280</x>
+      <y>455</y>
       <w>45</w>
       <h>45</h>
     </coordinates>
@@ -393,8 +393,8 @@ controla</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>405</x>
-      <y>400</y>
+      <x>340</x>
+      <y>455</y>
       <w>40</w>
       <h>45</h>
     </coordinates>
@@ -404,8 +404,8 @@ controla</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>620</x>
-      <y>295</y>
+      <x>555</x>
+      <y>350</y>
       <w>90</w>
       <h>60</h>
     </coordinates>
@@ -416,8 +416,8 @@ contiene</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>600</x>
-      <y>400</y>
+      <x>535</x>
+      <y>455</y>
       <w>95</w>
       <h>55</h>
     </coordinates>
@@ -427,8 +427,8 @@ contiene</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>705</x>
-      <y>400</y>
+      <x>640</x>
+      <y>455</y>
       <w>15</w>
       <h>55</h>
     </coordinates>
@@ -438,8 +438,8 @@ contiene</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>755</x>
-      <y>400</y>
+      <x>690</x>
+      <y>455</y>
       <w>75</w>
       <h>55</h>
     </coordinates>
@@ -449,8 +449,8 @@ contiene</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>770</x>
-      <y>295</y>
+      <x>705</x>
+      <y>350</y>
       <w>75</w>
       <h>60</h>
     </coordinates>
